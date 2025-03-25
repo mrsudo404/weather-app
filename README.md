@@ -1,7 +1,5 @@
-# weather app
+# Weather App GUI
  
-Weather App GUI
-
 This Weather App is built using Python's Tkinter for the graphical user interface and OpenWeatherMap API to fetch real-time weather updates for selected cities.
 
 Features
